@@ -1,6 +1,6 @@
 {
   "name": "hacher",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Cryptographic component",
   "main": "index.js",
   "scripts": {
