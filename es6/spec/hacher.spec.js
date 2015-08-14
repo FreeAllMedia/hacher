@@ -1,4 +1,4 @@
-import crypto from "../lib/hacher.js";
+import crypto from "../../";
 
 //tentative module to use: https://www.npmjs.com/package/uuid-1345
 describe("crypto", () => {
