@@ -19,29 +19,6 @@
 	        "base": "SauceLabs",
 	        "browserName": "chrome",
 	        "version": "31"
-	    },
-
-	    "sl_firefox_37": {
-	        "base": "SauceLabs",
-	        "browserName": "firefox",
-	        "version": "37"
-	    },
-	    "sl_firefox_38": {
-	        "base": "SauceLabs",
-	        "browserName": "firefox",
-	        "version": "38"
-	    },
-	    "sl_win_7_ie_11": {
-	        "base": "SauceLabs",
-	        "browserName": "internet explorer",
-	        "version": "11",
-	        "platform": "Windows 7"
-	    },
-	    "sl_win_81_ie_11": {
-	        "base": "SauceLabs",
-	        "browserName": "internet explorer",
-	        "version": "11",
-	        "platform": "Windows 8.1"
 	    }
 	}
 }
