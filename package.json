@@ -1,6 +1,6 @@
 {
   "name": "hacher",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Cryptographic component",
   "main": "index.js",
   "scripts": {
@@ -34,7 +34,6 @@
   },
   "homepage": "https://github.com/FreeAllMedia/hacher",
   "dependencies": {
-    "crypto": "0.0.3",
     "hashids": "1.0.2",
     "jsonwebtoken": "^5.0.4",
     "uuid-1345": "^0.99.6"
